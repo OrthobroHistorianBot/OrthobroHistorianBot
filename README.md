@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OrthobroHistorianBot
-- 👀 I’m interested in building the first Orthodox Christianity bot for Discord in C#.
-- 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on creating this C# Discord bot
+- 👀 I’m interested in building the first Orthodox Christianity bot for Discord in Python.
+- 🌱 I’m currently learning Python and C#.
+- 💞️ I’m looking to collaborate on creating this Python Discord bot
 - 📫 How to reach me: email.
 
 <!---
